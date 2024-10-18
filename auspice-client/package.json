@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "auspice": "github:nextstrain/auspice#418c932adc740dbd9c525a81365c61f3bfdb8be3"
+  }
+}
